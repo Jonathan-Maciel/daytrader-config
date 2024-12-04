@@ -7,7 +7,6 @@ app:
   version: "9844a2fb-e950-47c5-930d-d754518f68d0"
 
   endpoints: public
-  
   host: daytrader10.test.green-meadows.org
   
   # number of instances
