@@ -6,8 +6,8 @@ app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
   version: "5bf99bfd-c53a-448c-b7f7-894aaff38074"
 
-  endpoints: public
-  host: daytrader10.test.green-meadows.org
+  # endpoints: public
+  # host: daytrader10.test.green-meadows.org
   
   # number of instances
   instances:
